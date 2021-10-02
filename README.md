@@ -18,7 +18,7 @@ apt install ffmpeg -y
 
 apt install imagemagick -y
 
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Amrit9304/Nuru-
 
 cd wabot-aq
 
@@ -72,9 +72,9 @@ curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 
 apt install -y nodejs gcc g++ make
 
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Amrit9304/Nuru-
 
-cd wabot-aq
+cd nuru-
 
 npm install
 
